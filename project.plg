@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+D:\keilc51\code\guru\project code\project.uv2
+Project File Date:  07/03/2024
+
+<h2>Output:</h2>
+compiling project.c...
+PROJECT.C(649): error C141: syntax error near ''
+project.c - 1 Error(s), 0 Warning(s).
+compiling project.c...
+project.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+linking...
+Program Size: data=51.1 xdata=0 code=2719
+"project" - 0 Error(s), 0 Warning(s).
